@@ -1,0 +1,51 @@
+#tealeafhide {
+  display:none;
+}
+
+#tealeafshow {
+  display: block;
+}
+
+.leafpic {
+  display: block;
+}
+
+.teapic {
+  display: none;
+}
+
+/*.brewpic {
+  display: none;
+}*/
+
+.container {
+  text-align: center;
+}
+
+img {
+  height:400px;
+  width: auto;
+}
+
+h3 {
+  cursor: pointer;
+  color: darkblue;
+}
+
+h3:hover {
+  text-decoration: underline;
+}
+
+p {
+  font-size: 20px;
+}
+
+a {
+  color: darkblue;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
